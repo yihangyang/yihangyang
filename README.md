@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **yangyihang@outlook.de**
 
-- 🎓 Bachelor of Science in Business International Management (Wirtschaftsinformatik)
+- 🎓 Bachelor of Science in Business International System (Wirtschaftsinformatik)
 
 - 📚 Reading more about History, interested in Politics  <br/>
 
