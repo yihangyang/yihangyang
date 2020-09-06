@@ -1,10 +1,12 @@
 <h3 align="center">A passionate frontend developer from China, live in Germany</h3>
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **React** and **Flutter**
 
 - 📫 How to reach me **yangyihang@outlook.de**
 
 - 🎓 Bachelor of Science in Business International System (Wirtschaftsinformatik)
+
+- 🎓 Now study Master of Art in International Management (in Progress, wish me ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `LUCK`![#f03c15](https://placehold.it/15/f03c15/000000?text=+) )
 
 - 📚 Reading more about History, interested in Politics  <br/>
 
