@@ -5,9 +5,8 @@
 - 📫 How to reach me **yangyihang@outlook.de**
 
 - 📫 You can visit my website to get more update about me. **[click she](http://yihang-yang.com/)** OR **[click he](http://yangyihang.de/)**
-- 
-- 📫 Feel free to visit my lickedin to connect with **[me](https://www.linkedin.com/in/yihang-yang-1b87aa191/)**
 
+- 📫 Feel free to visit my lickedin to connect with **[me](https://www.linkedin.com/in/yihang-yang-1b87aa191/)**
 
 
 - 🎓 Bachelor of Science in Business International System (Wirtschaftsinformatik)
